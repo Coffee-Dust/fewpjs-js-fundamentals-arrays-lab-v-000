@@ -9,3 +9,5 @@ prepend.unshift("Odie")
 removeLast.pop()
 removeFirst.shift()
 
+const append = [...append2.slice(0), "Odie"]
+removeLast2.splice(-1, 1)
